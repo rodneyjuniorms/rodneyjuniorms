@@ -1,53 +1,77 @@
-# Rodney Ferreira | Rodney Junior
+# Olá, eu sou Rodney Ferreira 👋 | Hi, I'm Rodney Ferreira
 
-## Português 🇧🇷
+**Marketing • Business Development • Internacionalização • Inovação • Tecnologia**
 
-Profissional com mais de 15 anos de experiência em **Marketing, Desenvolvimento de Negócios, Vendas e Relações Institucionais**, conectando estratégia, tecnologia, inovação e internacionalização para gerar crescimento sustentável.
+Profissional com mais de 15 anos de experiência em áreas comerciais e de marketing, conectando estratégia, negócios, tecnologia, inovação e internacionalização.
 
-Atuo na criação e execução de projetos que aproximam **empresas, universidades, ecossistemas de inovação e mercados internacionais**, com experiência em marketing digital, geração de leads, planejamento estratégico, eventos, conteúdo, CRM, e-commerce e transformação de processos.
+Professional with 15+ years of experience in commercial and marketing roles, connecting strategy, business, technology, innovation and internationalization.
 
-### Áreas de atuação
-- Marketing e Desenvolvimento de Negócios
-- Internacionalização de empresas
-- Estratégia comercial e geração de leads
-- Marketing digital, conteúdo e performance
-- CRM, automação e processos comerciais
-- E-commerce e marketplaces
-- Relações institucionais e ecossistemas de inovação
-- Sustentabilidade e Agenda 2030 / ODS
-
-### Tecnologia & ferramentas
-`Vue.js` `Git` `GitHub` `Vercel` `WordPress` `SEO` `Google Ads` `CRM` `Pipedrive` `Bling` `E-commerce`
-
-### Projeto em destaque
-**Controle de Estoque** — aplicação em Vue publicada na Vercel.
+[LinkedIn](https://www.linkedin.com/in/rodneyjunior/) • [Projeto Controle de Estoque](https://controle-de-estoque1.vercel.app)
 
 ---
 
-## English 🇺🇸
+## 🇧🇷 Sobre mim
 
-Professional with 15+ years of experience in **Marketing, Business Development, Sales and Institutional Relations**, connecting strategy, technology, innovation and internationalization to drive sustainable growth.
+- 📍 Salto, São Paulo, Brasil
+- 💼 Marketing, Desenvolvimento de Negócios e Relações Institucionais
+- 🌎 Internacionalização de empresas e expansão de mercados
+- 📈 Geração de leads, planejamento estratégico, marketing de performance e conteúdo
+- 🛒 E-commerce, marketplaces, CRM e automação comercial
+- 🤝 Conexão entre empresas, universidades e ecossistemas de inovação
+- 🌱 Sustentabilidade, Agenda 2030 e Objetivos de Desenvolvimento Sustentável (ODS)
+- 🎓 Formação pela Universidade Federal de Mato Grosso do Sul — UFMS
 
-I work on projects that connect **companies, universities, innovation ecosystems and international markets**, with experience in digital marketing, lead generation, strategic planning, events, content, CRM, e-commerce and process transformation.
+## 🇺🇸 About me
 
-### Areas of expertise
-- Marketing & Business Development
-- Business internationalization
-- Sales strategy & lead generation
-- Digital marketing, content & performance
-- CRM, automation & sales processes
-- E-commerce & marketplaces
-- Institutional relations & innovation ecosystems
-- Sustainability & UN 2030 Agenda / SDGs
+- 📍 Salto, São Paulo, Brazil
+- 💼 Marketing, Business Development & Institutional Relations
+- 🌎 Business internationalization and market expansion
+- 📈 Lead generation, strategic planning, performance marketing and content
+- 🛒 E-commerce, marketplaces, CRM and sales automation
+- 🤝 Connecting companies, universities and innovation ecosystems
+- 🌱 Sustainability, UN 2030 Agenda and Sustainable Development Goals (SDGs)
+- 🎓 Universidade Federal de Mato Grosso do Sul — UFMS
 
-### Technology & tools
-`Vue.js` `Git` `GitHub` `Vercel` `WordPress` `SEO` `Google Ads` `CRM` `Pipedrive` `Bling` `E-commerce`
+## 🧰 Ferramentas & competências | Tools & skills
 
-### Featured project
-**Inventory Control** — Vue application deployed on Vercel.
+`Marketing` `Business Development` `Internationalization` `CRM` `Pipedrive` `Google Ads` `SEO` `WordPress` `E-commerce` `Marketplaces` `Bling` `Git` `GitHub` `Vue.js` `Vercel`
 
----
+## 🎓 Certificações em destaque | Selected certifications
 
-### Conecte-se comigo | Connect with me
+- ApexBrasil — Plano de Expansão Internacional
+- Pipedrivers — Pipedrive CRM
+- Companhia Pablo Cabral — Master of Google Ads
+- Anprotec — Implantação CERNE 1 e 2
+
+## 🤝 Atuação social | Community involvement
+
+- Movimento ODS SP — comunicação e conteúdo
+- Junior Achievement — voluntariado em educação empreendedora
+- Conaje — atuação em redes de jovens empresários
+- StartupMS — liderança em ecossistema de startups
+
+## 🚀 Projeto em destaque | Featured project
+
+### Controle de Estoque
+Aplicação web desenvolvida em **Vue.js** para apoio ao controle de estoque, publicada na Vercel.
+
+Web application built with **Vue.js** to support inventory management, deployed on Vercel.
+
+- 🌐 Demo: https://controle-de-estoque1.vercel.app
+- 💻 Código: https://github.com/rodneyjuniorms/controle_de_estoque
+
+## 🌐 Idiomas | Languages
+
+- Português — nativo / native
+- English — intermediate
+- Español — intermediate
+
+## 📫 Contato | Contact
+
 - LinkedIn: https://www.linkedin.com/in/rodneyjunior/
 - GitHub: https://github.com/rodneyjuniorms
+
+---
+
+> Aberto a conexões profissionais, projetos, inovação, negócios e internacionalização.  
+> Open to professional connections, projects, innovation, business and internationalization.
