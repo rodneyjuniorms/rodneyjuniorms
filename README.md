@@ -1,4 +1,12 @@
-# Olá, eu sou Rodney Ferreira 👋 | Hi, I'm Rodney Ferreira
+<p align="center">
+  <img src="assets/banner.png" alt="Rodney Ferreira — Marketing, Business Development, Internacionalização, Inovação e ODS" width="100%">
+</p>
+
+<h1 align="center">Olá, eu sou Rodney Ferreira 👋 | Hi, I'm Rodney Ferreira</h1>
+
+<p align="center">
+  <img src="assets/rodney-profile.jpg" alt="Rodney Ferreira" width="180" style="border-radius:50%">
+</p>
 
 <p align="center">
   <strong>Marketing • Business Development • Internacionalização • Inovação • Tecnologia</strong>
